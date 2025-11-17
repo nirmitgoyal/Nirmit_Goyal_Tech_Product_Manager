@@ -9,3 +9,19 @@ sites/site*/public/theme/
 textpattern/
 HISTORY.txt
 README.txt
+
+# Ignore LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.pdf
+*.xdv
+*.fdb_latexmk
+*.fls
+
+# Ignore system files
+.DS_Store
+
+# Ignore other temporary files
+*.tmp
+*.bak
