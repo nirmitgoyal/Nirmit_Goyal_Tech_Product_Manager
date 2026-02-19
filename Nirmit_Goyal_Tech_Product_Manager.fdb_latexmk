@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1763382088.28956 "Nirmit_Goyal_Tech_Product_Manager.tex" "Nirmit_Goyal_Tech_Product_Manager.pdf" "Nirmit_Goyal_Tech_Product_Manager" 1763382091.81052 2
+["pdflatex"] 1765863661.50917 "Nirmit_Goyal_Tech_Product_Manager.tex" "Nirmit_Goyal_Tech_Product_Manager.pdf" "Nirmit_Goyal_Tech_Product_Manager" 1765863674.34342 2
   "/usr/local/texlive/2025/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty" 1576016050 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -46,9 +46,9 @@
   "/usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf" 1739380943 42148 61becc7c670cd061bb319c643c27fdd4 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "Nirmit_Goyal_Tech_Product_Manager.aux" 1763380461.52913 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Nirmit_Goyal_Tech_Product_Manager.tex" 1763382020.33412 6225 4647a1d5aad23782d865864b0cf0c1d8 ""
-  "deedy-resume-openfont.cls" 1761297669.76384 3740 f4c047cbc5779516ff7c51d3c7abc73c ""
+  "Nirmit_Goyal_Tech_Product_Manager.aux" 1763450492.02491 1244 c355d2dbf8bb5b1ab96a4c14f5f974fa "pdflatex"
+  "Nirmit_Goyal_Tech_Product_Manager.tex" 1765863520.28112 6398 ec0255bc45cb9f5373f878905f88d8bf ""
+  "deedy-resume-openfont.cls" 1763395000.07365 3740 f4c047cbc5779516ff7c51d3c7abc73c ""
   (generated)
   "Nirmit_Goyal_Tech_Product_Manager.aux"
   "Nirmit_Goyal_Tech_Product_Manager.log"
